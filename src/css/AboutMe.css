@@ -1,0 +1,23 @@
+/* Apply styles to the About Me section */
+.about-me {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    margin: 20px;
+  }
+  
+  .about-me h2 {
+    font-size: 1.5rem;
+    margin-top: 0;
+    color: #333;
+  }
+  
+  .about-me p {
+    font-size: 1rem;
+    line-height: 1.5;
+    color: #555;
+  }
+  
+  /* Apply styles to additional elements if needed */
+  
